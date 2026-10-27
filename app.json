@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Hafta 6 Uygulamaları",
+    "slug": "hafta-6-router-uygulamalari",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hafta6",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
