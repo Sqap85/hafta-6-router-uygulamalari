@@ -6,6 +6,20 @@ Uygulama, föydeki üç senaryoyu tek Expo projesinde toplar:
 - **Mini Ürün Kataloğu:** `ProductCard`, FlatList, `/urun/[id]` rotası ve stok durumu.
 - **Ders Programı:** `CourseCard`, `/ders/[id]` rotası ve bilinmeyen ders ID mesajı.
 
+## Ekran görüntüleri
+
+### Uygulama 1 — Arıza Takip
+
+![Arıza Takip ekran görüntüleri](./screenshots/ariza-takip-ekran-goruntuleri.png)
+
+### Uygulama 2 — Mini Ürün Kataloğu
+
+![Mini Ürün Kataloğu ekran görüntüleri](./screenshots/mini-urun-katalogu-ekran-goruntuleri.png)
+
+### Uygulama 3 — Öğrenci Ders Programı
+
+![Öğrenci Ders Programı ekran görüntüleri](./screenshots/ogrenci-ders-programi-ekran-goruntuleri.png)
+
 ## Çalıştırma
 
 ```bash
